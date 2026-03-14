@@ -19,3 +19,4 @@ public class Scooter extends Vehicle {
         this.batteryLevel = batteryLevel;
     }
 }
+//laura rojas marin

@@ -26,6 +26,7 @@ public class Rental {
         this.id = id;
     }
 
+
     public String getStartDate() {
         return startDate;
     }
@@ -68,3 +69,4 @@ public class Rental {
                 '}';
     }
 }
+//laura rojas marin
