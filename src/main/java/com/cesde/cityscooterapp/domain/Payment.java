@@ -25,6 +25,7 @@ public class Payment {
         this.id = id;
     }
 
+
     public double getAmount() {
         return amount;
     }
@@ -32,6 +33,7 @@ public class Payment {
     public void setAmount(double amount) {
         this.amount = amount;
     }
+
 
     public String getPaymentMethod() {
         return paymentMethod;
@@ -41,6 +43,7 @@ public class Payment {
         this.paymentMethod = paymentMethod;
     }
 
+
     public Booking getBooking() {
         return booking;
     }
@@ -48,4 +51,5 @@ public class Payment {
     public void setBooking(Booking booking) {
         this.booking = booking;
     }
+
 }
